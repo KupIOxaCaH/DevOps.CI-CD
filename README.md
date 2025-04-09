@@ -19,8 +19,13 @@
 
 #### Решение 1
 
+*Настройка проекта*
 ![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/1.PNG)
+
+*Настройка проекта*
 ![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/2.PNG)
+
+*Результат выполнения сборки*
 ![Результат выполнения сборки](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/3.PNG)
 
 ---
@@ -38,8 +43,13 @@
 
 #### Решение 2
 
+*Настройка проекта*
 ![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/4.PNG)
+
+*Настройка проекта*
 ![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/5.PNG)
+
+*Результат выполнения сборки*
 ![Результат выполнения сборки](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/6.PNG)
 
 ---
@@ -59,9 +69,16 @@
 
 #### Решение 3
 
+*Настройка проекта*
 ![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/7.PNG)
+
+*Настройка проекта*
 ![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/8.PNG)
+
+*Настройка проекта*
 ![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/9.PNG)
+
+*Результат выполнения сборки*
 ![Результат выполнения сборки](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/10.PNG)
 
 ---
@@ -78,7 +95,14 @@
 
 #### Решение 4
 
+*Настройка проекта*
 ![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/11.PNG)
+
+*Настройка проекта*
 ![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/12.PNG)
+
+*Настройка проекта*
 ![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/13.PNG)
+
+*Результат выполнения сборки*
 ![Результат выполнения сборки](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/14.PNG)
