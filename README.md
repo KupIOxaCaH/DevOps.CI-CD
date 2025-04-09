@@ -20,13 +20,13 @@
 #### Решение 1  
 
 *Настройка проекта*  
-![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/1.PNG)
+![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/1.PNG)  
 
 *Настройка проекта*  
-![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/2.PNG)
+![Настройка проекта](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/2.PNG)  
 
 *Результат выполнения сборки*  
-![Результат выполнения сборки](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/3.PNG)
+![Результат выполнения сборки](https://github.com/KupIOxaCaH/DevOps.CI-CD/blob/main/img/3.PNG)  
 
 ---
 
